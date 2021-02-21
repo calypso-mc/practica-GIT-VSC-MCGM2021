@@ -1,0 +1,10 @@
+D:\practica-GIT-VSC-MCGM2021\MCGM2021 Práctica Git\bin\Debug\MCGM2021 Práctica Git.exe.config
+D:\practica-GIT-VSC-MCGM2021\MCGM2021 Práctica Git\bin\Debug\MCGM2021 Práctica Git.exe
+D:\practica-GIT-VSC-MCGM2021\MCGM2021 Práctica Git\bin\Debug\MCGM2021 Práctica Git.pdb
+D:\practica-GIT-VSC-MCGM2021\MCGM2021 Práctica Git\obj\Debug\MCGM2021 Práctica Git.csprojAssemblyReference.cache
+D:\practica-GIT-VSC-MCGM2021\MCGM2021 Práctica Git\obj\Debug\MCGM2021_Práctica_Git.Form1.resources
+D:\practica-GIT-VSC-MCGM2021\MCGM2021 Práctica Git\obj\Debug\MCGM2021_Práctica_Git.Properties.Resources.resources
+D:\practica-GIT-VSC-MCGM2021\MCGM2021 Práctica Git\obj\Debug\MCGM2021 Práctica Git.csproj.GenerateResource.cache
+D:\practica-GIT-VSC-MCGM2021\MCGM2021 Práctica Git\obj\Debug\MCGM2021 Práctica Git.csproj.CoreCompileInputs.cache
+D:\practica-GIT-VSC-MCGM2021\MCGM2021 Práctica Git\obj\Debug\MCGM2021 Práctica Git.exe
+D:\practica-GIT-VSC-MCGM2021\MCGM2021 Práctica Git\obj\Debug\MCGM2021 Práctica Git.pdb
