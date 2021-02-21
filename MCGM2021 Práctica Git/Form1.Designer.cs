@@ -32,10 +32,11 @@ namespace MCGM2021_Práctica_Git
             this.aluNombre = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.aluNota = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.lista = new System.Windows.Forms.Label();
             this.listaAlumnos = new System.Windows.Forms.TextBox();
+            this.aluNota = new System.Windows.Forms.NumericUpDown();
+            ((System.ComponentModel.ISupportInitialize)(this.aluNota)).BeginInit();
             this.SuspendLayout();
             // 
             // aluNombre
@@ -62,13 +63,6 @@ namespace MCGM2021_Práctica_Git
             this.label2.Size = new System.Drawing.Size(43, 20);
             this.label2.TabIndex = 2;
             this.label2.Text = "Nota";
-            // 
-            // aluNota
-            // 
-            this.aluNota.Location = new System.Drawing.Point(545, 67);
-            this.aluNota.Name = "aluNota";
-            this.aluNota.Size = new System.Drawing.Size(148, 26);
-            this.aluNota.TabIndex = 3;
             // 
             // button1
             // 
@@ -98,20 +92,28 @@ namespace MCGM2021_Práctica_Git
             this.listaAlumnos.Size = new System.Drawing.Size(908, 249);
             this.listaAlumnos.TabIndex = 6;
             // 
+            // aluNota
+            // 
+            this.aluNota.Location = new System.Drawing.Point(543, 69);
+            this.aluNota.Name = "aluNota";
+            this.aluNota.Size = new System.Drawing.Size(149, 26);
+            this.aluNota.TabIndex = 7;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1159, 450);
+            this.Controls.Add(this.aluNota);
             this.Controls.Add(this.listaAlumnos);
             this.Controls.Add(this.lista);
             this.Controls.Add(this.button1);
-            this.Controls.Add(this.aluNota);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.aluNombre);
             this.Name = "Form1";
             this.Text = "Alumnos";
+            ((System.ComponentModel.ISupportInitialize)(this.aluNota)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -122,10 +124,10 @@ namespace MCGM2021_Práctica_Git
         private System.Windows.Forms.TextBox aluNombre;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox aluNota;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label lista;
         private System.Windows.Forms.TextBox listaAlumnos;
+        private System.Windows.Forms.NumericUpDown aluNota;
     }
 }
 
