@@ -96,7 +96,7 @@ namespace MCGM2021_Práctica_Git
             // 
             this.aluNota.Location = new System.Drawing.Point(543, 69);
             this.aluNota.Name = "aluNota";
-            this.aluNota.Size = new System.Drawing.Size(149, 26);
+            this.aluNota.Size = new System.Drawing.Size(81, 26);
             this.aluNota.TabIndex = 7;
             // 
             // Form1

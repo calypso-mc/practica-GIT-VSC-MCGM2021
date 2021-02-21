@@ -9,6 +9,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//MCGM2021
+
 namespace MCGM2021_Práctica_Git
 {
     public partial class Form1 : Form
